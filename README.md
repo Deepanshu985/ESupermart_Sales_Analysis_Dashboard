@@ -1,5 +1,7 @@
 # 📊 eSuperMart Sales Analysis Dashboard (Power BI)
 
+🔗 [Open the Analysis Dashboard](https://github.com/Deepanshu985/ESupermart_Sales_Analysis_Dashboard/blob/8406f916421fd2d0637ebcf195aaa26941aaccc3/esupermart_sales_data_analysis.pbix)
+
 This Power BI project presents a detailed analysis of eSuperMart’s sales performance, segmented by **month**, **product category**, and **region**. The dashboard translates raw data into actionable business insights, empowering stakeholders to make informed decisions on marketing, inventory, and regional strategy.
 
 ---
@@ -45,7 +47,7 @@ It classifies its customer base into three categories: Normal Consumer which buy
 2. although sales was more in the second half of the year but the profit % declined rapidly during this period which shows profit was minimised during this period to boost sales. Promotional Offers and Discounts have to be checked during this period to normalize profit
 3. Consumers and Home Office customers bought more in the year as compared to corporate which suggests promotional offers to be given to corporates to boost sales.
 
---
+---
 ### Product Hierarchy Dashboard
 
 ![Product-wise Sales](https://github.com/Deepanshu985/ESupermart_Sales_Analysis_Dashboard/blob/64f34c17a14110b34b0e938835b53954d6dba07c/output/visuals/Analysis%20Product%20wise.png)
@@ -60,7 +62,7 @@ It classifies its customer base into three categories: Normal Consumer which buy
 2. Furniture items underperform across all segments-requires pricing or marketing review.
 3. Some products under Binders sub-category have not performed well and generated least amount of revenue- requires attention and understand if the issue is marketing or product is outdated.
 
---
+---
 ### Regional Sales Overview Dashboard
 
 ![Region-wise Sales](https://github.com/Deepanshu985/ESupermart_Sales_Analysis_Dashboard/blob/64f34c17a14110b34b0e938835b53954d6dba07c/output/visuals/Analysis%20Region%20wise.png)
@@ -77,7 +79,7 @@ It classifies its customer base into three categories: Normal Consumer which buy
 
 3. Central and East lag behind- opportunity for regional campaigns and marketing.
 
---
+---
 ## Recommendations
 
 1. Launch category-wise bundle offers during low-demand period
