@@ -1,6 +1,6 @@
 # 📊 eSuperMart Sales Analysis Dashboard (Power BI)
 
-🔗 [Open the Analysis Dashboard](https://github.com/Deepanshu985/ESupermart_Sales_Analysis_Dashboard/blob/8406f916421fd2d0637ebcf195aaa26941aaccc3/esupermart_sales_data_analysis.pbix)
+🔗 [Visit the Analysis Dashboard](https://github.com/Deepanshu985/ESupermart_Sales_Analysis_Dashboard/blob/8406f916421fd2d0637ebcf195aaa26941aaccc3/esupermart_sales_data_analysis.pbix)
 
 This Power BI project presents a detailed analysis of eSuperMart’s sales performance, segmented by **month**, **product category**, and **region**. The dashboard translates raw data into actionable business insights, empowering stakeholders to make informed decisions on marketing, inventory, and regional strategy.
 
